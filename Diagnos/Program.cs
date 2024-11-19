@@ -69,6 +69,15 @@ Console.ReadLine();
 */
 
 
+string[] leksaker = ["docka", "boll", "transformer", "lego", "nintendo"];
+
+foreach (string choice in leksaker)
+{
+    Console.WriteLine(choice);
+}
+
+Console.ReadLine();
+
 
 
 
